@@ -1,0 +1,2 @@
+john,$2a$10$X3KCU3Eor3.7PbITOnf94u/Mh7wGcdr3Tb9TnyNOnBFetTbKB5o5e,john@email.com
+jenny,$2a$10$tNsvO.BOcyMGJrRN9zrc8ONZAPh2yaTJpGXHo5qREFx4Qi2WFPcnK,jenny@email.com

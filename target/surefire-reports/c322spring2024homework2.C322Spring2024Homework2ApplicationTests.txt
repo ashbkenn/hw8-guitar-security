@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: c322spring2024homework2.C322Spring2024Homework2ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.480 s -- in c322spring2024homework2.C322Spring2024Homework2ApplicationTests

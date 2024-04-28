@@ -1,0 +1,16 @@
+/Users/ashlynkennedy/Desktop/hw8-guitar-security/src/main/java/c322spring2024homework2/controllers/InventoryController.java
+/Users/ashlynkennedy/Desktop/hw8-guitar-security/src/main/java/c322spring2024homework2/controllers/HomeController.java
+/Users/ashlynkennedy/Desktop/hw8-guitar-security/src/main/java/c322spring2024homework2/controllers/AuthenticationController.java
+/Users/ashlynkennedy/Desktop/hw8-guitar-security/src/main/java/c322spring2024homework2/security/UserDetailsSecurityService.java
+/Users/ashlynkennedy/Desktop/hw8-guitar-security/src/main/java/c322spring2024homework2/security/SecurityConfig.java
+/Users/ashlynkennedy/Desktop/hw8-guitar-security/src/main/java/c322spring2024homework2/security/Jwks.java
+/Users/ashlynkennedy/Desktop/hw8-guitar-security/src/main/java/c322spring2024homework2/model/Type.java
+/Users/ashlynkennedy/Desktop/hw8-guitar-security/src/main/java/c322spring2024homework2/repository/CustomerRepository.java
+/Users/ashlynkennedy/Desktop/hw8-guitar-security/src/main/java/c322spring2024homework2/model/Builder.java
+/Users/ashlynkennedy/Desktop/hw8-guitar-security/src/main/java/c322spring2024homework2/model/Customer.java
+/Users/ashlynkennedy/Desktop/hw8-guitar-security/src/main/java/c322spring2024homework2/security/KeyGeneratorUtils.java
+/Users/ashlynkennedy/Desktop/hw8-guitar-security/src/main/java/c322spring2024homework2/model/Guitar.java
+/Users/ashlynkennedy/Desktop/hw8-guitar-security/src/main/java/c322spring2024homework2/repository/InventoryRepository.java
+/Users/ashlynkennedy/Desktop/hw8-guitar-security/src/main/java/c322spring2024homework2/model/Wood.java
+/Users/ashlynkennedy/Desktop/hw8-guitar-security/src/main/java/c322spring2024homework2/C322Spring2024Homework2Application.java
+/Users/ashlynkennedy/Desktop/hw8-guitar-security/src/main/java/c322spring2024homework2/security/TokenService.java
